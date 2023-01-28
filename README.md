@@ -14,6 +14,8 @@ Input the language you want to translate + space + the sentence you want to tran
 
 
 ## Settings
+Need to modify the TranslatorLineBot/linebothw/settings.py
+
 ![image](https://github.com/YiChingLLin/TranslatorLineBot/blob/master/images/modify1.png)
 ![image](https://github.com/YiChingLLin/TranslatorLineBot/blob/master/images/modify2.png)
 ![image](https://github.com/YiChingLLin/TranslatorLineBot/blob/master/images/modify3.png)
