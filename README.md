@@ -1,4 +1,4 @@
-# TranslatorLineBot
+# Translator LineBot
 
 Use the [small100](https://github.com/alirezamshi/small100) Model to implement a translation LINE Bot that translates Chinese into multiple languages, providing users translate Chinese into English, Spanish, French, Japanese, and Korean through LINE Bot. 
 
